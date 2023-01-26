@@ -32,4 +32,4 @@ dataframe image which we then use on our Huggingface app. This is done in the `i
 
 ## Huggingface App
 Finally, we host our latest predictions on Huggingface, our space can be found here:
-https://huggingface.co/spaces/ayberkuckun/aqi-prediction-paris. This is done in the `app/app.py`
+. This is done in the `app/app.py`
