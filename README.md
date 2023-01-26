@@ -30,6 +30,4 @@ get the weather conditions forecast for the next 7 days. Then we simply use our 
 predictions on the retrieved weather conditions. New predictions are generated daily. We then save our results as a
 dataframe image which we then use on our Huggingface app. This is done in the `inference_pipeline_daily.py`
 
-## Huggingface App
-Finally, we host our latest predictions on Huggingface, our space can be found here:
-. This is done in the `app/app.py`
+
